@@ -1,0 +1,36 @@
+_repo: The-trumpet-in-the-dust_70599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holme, Constance
+    alias: Punchard, Constance Holme
+    birthdate: 1880
+    deathdate: 1955
+    gutenberg_agent_id: '40683'
+    url: http://www.gutenberg.org/2009/agents/40683
+    wikipedia: https://en.wikipedia.org/wiki/Constance_Holme
+description: ''
+gutenberg_issued: '2023-04-19'
+identifiers:
+  gutenberg: '70599'
+language: en
+pgterms:marc904: https://archive.org/details/trumpetindust00holmrich
+pgterms:marc905: 20211102194028holme
+pgterms:marc906: '1921'
+pgterms:marc907: GB
+production_note: Bob Taylor, MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bMills & Boon, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- England -- Fiction'
+- !lcsh 'Older women -- Fiction'
+- !lcsh 'Almshouses -- Fiction'
+- !lcsh 'Women cleaning personnel -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The trumpet in the dust
+url: http://www.gutenberg.org/ebooks/70599
